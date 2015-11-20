@@ -443,15 +443,15 @@ en-GB:
   label_user_plural: Users
   label_user_new: New user
   label_user_anonymous: Anonymous
-  label_project: Project
-  label_project_new: New project
-  label_project_plural: Projects
+  label_project: Product
+  label_project_new: New product
+  label_project_plural: Products
   label_x_projects:
-    zero:  no projects
-    one:   1 project
-    other: "%{count} projects"
-  label_project_all: All Projects
-  label_project_latest: Latest projects
+    zero:  no products
+    one:   1 product
+    other: "%{count} products"
+  label_project_all: All Products
+  label_project_latest: Latest products
   label_issue: Issue
   label_issue_new: New issue
   label_issue_plural: Issues
@@ -734,7 +734,7 @@ en-GB:
   label_added_time_by: "Added by %{author} %{age} ago"
   label_updated_time_by: "Updated by %{author} %{age} ago"
   label_updated_time: "Updated %{value} ago"
-  label_jump_to_a_project: Jump to a project...
+  label_jump_to_a_project: Jump to a product...
   label_file_plural: Files
   label_changeset_plural: Changesets
   label_default_columns: Default columns
